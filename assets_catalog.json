@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "name": "Coats",
+      "items": [
+        {
+          "name": "Wool Winter Coat",
+          "imagePath": "assets/images/coats/coat1.jpg"
+        },
+        {
+          "name": "Trench Coat",
+          "imagePath": "assets/images/coats/coat2.jpg"
+        },
+        {
+          "name": "Puffer Jacket",
+          "imagePath": "assets/images/coats/coat3.jpg"
+        },
+        {
+          "name": "Peacoat Classic",
+          "imagePath": "assets/images/coats/coat4.jpg"
+        },
+        {
+          "name": "Leather Jacket",
+          "imagePath": "assets/images/coats/coat5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pants",
+      "items": [
+        {
+          "name": "Classic Chinos",
+          "imagePath": "assets/images/pants/pants1.jpg"
+        },
+        {
+          "name": "Slim Fit Dress Pants",
+          "imagePath": "assets/images/pants/pants2.jpg"
+        },
+        {
+          "name": "Dark Denim Jeans",
+          "imagePath": "assets/images/pants/pants3.jpg"
+        },
+        {
+          "name": "Cargo Pants",
+          "imagePath": "assets/images/pants/pants4.jpg"
+        },
+        {
+          "name": "Corduroy Trousers",
+          "imagePath": "assets/images/pants/pants5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Suits",
+      "items": [
+        {
+          "name": "Charcoal Business Suit",
+          "imagePath": "assets/images/suits/suit1.jpg"
+        },
+        {
+          "name": "Navy Three-Piece Suit",
+          "imagePath": "assets/images/suits/suit2.jpg"
+        },
+        {
+          "name": "Grey Slim Fit Suit",
+          "imagePath": "assets/images/suits/suit3.jpg"
+        },
+        {
+          "name": "Black Tuxedo",
+          "imagePath": "assets/images/suits/suit4.jpg"
+        },
+        {
+          "name": "Black Formal Suit",
+          "imagePath": "assets/images/suits/suit5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sweaters",
+      "items": [
+        {
+          "name": "Classic Wool Sweater",
+          "imagePath": "assets/images/sweaters/sweater1.jpg"
+        },
+        {
+          "name": "Cashmere V-Neck",
+          "imagePath": "assets/images/sweaters/sweater2.jpg"
+        },
+        {
+          "name": "Cable Knit Pullover",
+          "imagePath": "assets/images/sweaters/sweater3.jpg"
+        },
+        {
+          "name": "Turtleneck Sweater",
+          "imagePath": "assets/images/sweaters/sweater4.jpg"
+        },
+        {
+          "name": "Cardigan Sweater",
+          "imagePath": "assets/images/sweaters/sweater5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Blazers",
+      "items": [
+        {
+          "name": "Navy Business Blazer",
+          "imagePath": "assets/images/blazers/blazer1.jpg"
+        },
+        {
+          "name": "Slim Fit Blazer",
+          "imagePath": "assets/images/blazers/blazer2.jpg"
+        },
+        {
+          "name": "Tweed Sport Coat",
+          "imagePath": "assets/images/blazers/blazer3.jpg"
+        },
+        {
+          "name": "Velvet Evening Blazer",
+          "imagePath": "assets/images/blazers/blazer4.jpg"
+        },
+        {
+          "name": "Casual Cotton Blazer",
+          "imagePath": "assets/images/blazers/blazer5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shirts",
+      "items": [
+        {
+          "name": "White Oxford Shirt",
+          "imagePath": "assets/images/shirts/shirt1.jpg"
+        },
+        {
+          "name": "Blue Striped Dress Shirt",
+          "imagePath": "assets/images/shirts/shirt2.jpg"
+        },
+        {
+          "name": "Casual Linen Shirt",
+          "imagePath": "assets/images/shirts/shirt3.jpg"
+        },
+        {
+          "name": "Black Formal Shirt",
+          "imagePath": "assets/images/shirts/shirt4.jpg"
+        },
+        {
+          "name": "Checkered Button-Down",
+          "imagePath": "assets/images/shirts/shirt5.jpg"
+        }
+      ]
+    }
+  ]
+}
